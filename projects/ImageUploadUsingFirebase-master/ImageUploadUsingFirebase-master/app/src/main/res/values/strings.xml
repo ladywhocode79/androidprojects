@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Image Upload Using Firebase</string>
+    <string name="bt_choose_image">Choose Image</string>
+    <string name="bt_upload">Upload</string>
+    <string name="hint_file_name">Enter file name</string>
+    <string name="txt_show_uploads">Show Uploads</string>
+</resources>
