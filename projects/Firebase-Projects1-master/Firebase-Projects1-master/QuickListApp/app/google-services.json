@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "609622313396",
+    "firebase_url": "https://quicklistapp-86570.firebaseio.com",
+    "project_id": "quicklistapp-86570",
+    "storage_bucket": "quicklistapp-86570.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609622313396:android:d3f553114bd01389158ae1",
+        "android_client_info": {
+          "package_name": "com.example.quicklistapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609622313396-k8qk8gegeoobf45s77h71m61nun2gvcr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quicklistapp",
+            "certificate_hash": "0dde82b6de822323b6e39fbcd81b32baf21c36c4"
+          }
+        },
+        {
+          "client_id": "609622313396-8h63repp7t8q9r069e8f8na4i1puonmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxwjsbdLf9LjJ2kgKcvPkvK6i_QPAL1-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609622313396-8h63repp7t8q9r069e8f8na4i1puonmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
